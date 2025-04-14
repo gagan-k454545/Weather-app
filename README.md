@@ -5,15 +5,9 @@
 </p>
 
 <p align="center">
-  <a href="#-features">Features</a> •
-  <a href="#-live-demo">Live Demo</a> •
-  <a href="#-installation">Installation</a> •
-  <a href="#-usage">Usage</a> •
-  <a href="#-api-endpoints">API</a> •
-  <a href="#-technologies">Technologies</a> •
-  <a href="#-screenshots">Screenshots</a> •
-  <a href="#-contributing">Contributing</a> •
-  <a href="#-license">License</a>
+
+  <a href="https://v0-weatherapp-update-qyxkqr.vercel.app/">Live Demo</a> •
+ 
 </p>
 
 A beautiful, responsive weather application focused on Indian cities with real-time weather updates, forecasts, and detailed weather information. The app is optimized for mobile devices with a smooth, intuitive interface.
@@ -40,7 +34,7 @@ A beautiful, responsive weather application focused on Indian cities with real-t
 
 ## 🌐 Live Demo
 
-Check out the live demo: [Indian Weather App](https://indian-weather-app.vercel.app)
+Check out the live demo: [Indian Weather App](https://v0-weatherapp-update-qyxkqr.vercel.app/)
 
 ## 🛠️ Installation
 
