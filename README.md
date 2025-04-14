@@ -1,7 +1,7 @@
 # 🌦️ Indian Weather App
 
 <p align="center">
-  <img src="public/img/weather-app-banner.jpg" alt="Weather App Banner" width="800">
+
 </p>
 
 <p align="center">
@@ -48,7 +48,7 @@ Check out the live demo: [Indian Weather App](https://v0-weatherapp-update-qyxkq
 
 1. Clone the repository:
    \`\`\`bash
-   git clone https://github.com/yourusername/indian-weather-app.git
+   git clone https://github.com/gagan-k454545/Weather-app.git
    cd indian-weather-app
    \`\`\`
 
