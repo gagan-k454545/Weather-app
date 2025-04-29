@@ -40,7 +40,7 @@ A beautiful, responsive weather application focused on Indian cities with real-t
 
 ## 🌐 Live Demo
 
-Check out the live demo: [Indian Weather App](https://indian-weather-app.vercel.app)
+Check out the live demo: [Indian Weather App](https://v0-weatherapp-update-qyxkqr.vercel.app/)
 
 ## 🛠️ Installation
 
