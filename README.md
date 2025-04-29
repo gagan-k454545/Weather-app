@@ -54,7 +54,7 @@ Check out the live demo: [Indian Weather App](https://v0-weatherapp-update-qyxkq
 
 1. Clone the repository:
    \`\`\`bash
-   git clone https://github.com/yourusername/indian-weather-app.git
+   git clone https://github.com/gagan-k454545/Weather-app
    cd indian-weather-app
    \`\`\`
 
