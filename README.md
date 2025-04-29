@@ -53,31 +53,31 @@ Check out the live demo: [Indian Weather App](https://v0-weatherapp-update-qyxkq
 ### Clone and Setup
 
 1. Clone the repository:
-   \`\`\`bash
+   ```bash
    git clone https://github.com/gagan-k454545/Weather-app
    cd indian-weather-app
-   \`\`\`
+   ```
 
 2. Install dependencies:
-   \`\`\`bash
+   ```bash
    npm install
    # or
    yarn install
-   \`\`\`
+   ```
 
 3. Create a `.env.local` file in the root directory with the following variables:
-   \`\`\`
+   ```
    NEXT_PUBLIC_SUPABASE_URL=your_supabase_url
    NEXT_PUBLIC_SUPABASE_ANON_KEY=your_supabase_anon_key
    SUPABASE_SERVICE_ROLE_KEY=your_supabase_service_role_key
-   \`\`\`
+   ```
 
 4. Run the development server:
-   \`\`\`bash
+   ```bash
    npm run dev
    # or
    yarn dev
-   \`\`\`
+   ```
 
 5. Open [http://localhost:3000](http://localhost:3000) in your browser.
 
@@ -161,8 +161,3 @@ This project is licensed under the MIT License - see the [LICENSE](LICENSE) file
 ## 👨‍💻 Author
 
 Created with ❤️ for the Web Development Internship Coding Round
-\`\`\`
-
-Now, let's enhance the UI to make it smoother and more visually appealing:
-
-First, let's add a custom CSS file for animations and transitions:
